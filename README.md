@@ -9,6 +9,6 @@ Here I list papers about learning different tasks in latent space.
 
 ## robot learning
 - Learning Generalizable Feature Fields for Mobile Manipulation. [[project]](https://geff-b1.github.io)
-- Improving Vision-and-Language Navigation by Generating Future-View Image Semantics
+- Improving Vision-and-Language Navigation by Generating Future-View Image Semantics. [[project]](https://jialuli-luka.github.io/VLN-SIG)
 - CLIP-Fields: Weakly Supervised Semantic Fields for Robotic Memory. [[code]](https://github.com/notmahi/clip-fields)
 - Latent Plans for Task-Agnostic Offline Reinforcement Learning. [[project]](http://tacorl.cs.uni-freiburg.de/)
