@@ -16,3 +16,6 @@ Here I list papers about learning different tasks in latent space.
 
 ## robot control
 - Fourier latent dynamics. [[code]](https://github.com/mit-biomimetics/fld)
+
+## reinforcement learning
+- Unsupervised Zero-Shot Reinforcement Learning via Functional Reward Encodings. [[code]](https://github.com/kvfrans/fre)
