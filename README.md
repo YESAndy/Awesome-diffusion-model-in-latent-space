@@ -14,5 +14,5 @@ Here I list papers about learning different tasks in latent space.
 - CLIP-Fields: Weakly Supervised Semantic Fields for Robotic Memory. [[code]](https://github.com/notmahi/clip-fields)
 - Latent Plans for Task-Agnostic Offline Reinforcement Learning. [[project]](http://tacorl.cs.uni-freiburg.de/)
 
-# robot control
+## robot control
 - Fourier latent dynamics. [[code]](https://github.com/mit-biomimetics/fld)
