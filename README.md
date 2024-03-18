@@ -13,3 +13,6 @@ Here I list papers about learning different tasks in latent space.
 - Improving Vision-and-Language Navigation by Generating Future-View Image Semantics. [[project]](https://jialuli-luka.github.io/VLN-SIG)
 - CLIP-Fields: Weakly Supervised Semantic Fields for Robotic Memory. [[code]](https://github.com/notmahi/clip-fields)
 - Latent Plans for Task-Agnostic Offline Reinforcement Learning. [[project]](http://tacorl.cs.uni-freiburg.de/)
+
+# robot control
+- Fourier latent dynamics. [[code]](https://github.com/mit-biomimetics/fld)
