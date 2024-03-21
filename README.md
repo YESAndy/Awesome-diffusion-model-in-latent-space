@@ -8,7 +8,7 @@ Here I list papers about learning different tasks in latent space.
 - Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models. [[paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Pan_Synthesizing_Coherent_Story_With_Auto-Regressive_Latent_Diffusion_Models_WACV_2024_paper.pdf) [[code]](https://github.com/xichenpan/ARLDM)
 - Scalable Diffusion Models with Transformers (DiT). [[code]](https://github.com/facebookresearch/DiT)
 - Language Quantized AutoEncoders. [[code]](https://github.com/lhao499/language-quantized-autoencoders/tree/main?tab=readme-ov-file)
-* Use fixed RoBerta codebook for image encoder pretraining
+  - Use fixed RoBerta codebook for image encoder pretraining
 
 ## Robot learning
 - Learning Generalizable Feature Fields for Mobile Manipulation. [[project]](https://geff-b1.github.io)
