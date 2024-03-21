@@ -19,3 +19,8 @@ Here I list papers about learning different tasks in latent space.
 
 ## Reinforcement learning
 - Unsupervised Zero-Shot Reinforcement Learning via Functional Reward Encodings. [[code]](https://github.com/kvfrans/fre)
+
+## Robot manipulation
+### With foundation models
+- PIVOT: Iterative Visual Prompting Elicits Actionable Knowledge for VLMs. [[paper]]([https://jialuli-luka.github.io/VLN-SIG](https://arxiv.org/pdf/2402.07872.pdf)https://arxiv.org/pdf/2402.07872.pdf)
+### W/o foundation models
