@@ -22,5 +22,5 @@ Here I list papers about learning different tasks in latent space.
 
 ## Robot manipulation
 ### With foundation models
-- PIVOT: Iterative Visual Prompting Elicits Actionable Knowledge for VLMs. [[paper]]([https://jialuli-luka.github.io/VLN-SIG](https://arxiv.org/pdf/2402.07872.pdf)https://arxiv.org/pdf/2402.07872.pdf)
+- PIVOT: Iterative Visual Prompting Elicits Actionable Knowledge for VLMs. [[paper]](https://arxiv.org/pdf/2402.07872.pdf). Insight: VLM strugglese to produce precise spatial outputs directly, but they can readily select among a discrete set of coarse choices, and this in turn can be used to refine the set to provide more precise choices at the next iteration.
 ### W/o foundation models
